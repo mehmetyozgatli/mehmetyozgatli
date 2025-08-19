@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 Mehmet Yozgatlı | Software Developer</h1>
 
-- 🔭 I’m currently working as an Android Developer at **Akbank via Innovance Consultancy.**
+- 🔭 I’m currently working as an Software Developer at **Akbank via Innovance Consultancy.**
 
 - 🌱 I’m currently learning **Jetpack Compose, KMP, JS and Web Development.**
 
